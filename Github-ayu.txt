@@ -1,0 +1,5 @@
+untuk belajar Github harus mengetahui beberapa terminologi berikut 
+1 repository
+2 Comid
+3 Branch
+4 marge
