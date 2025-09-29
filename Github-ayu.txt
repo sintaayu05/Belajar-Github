@@ -3,3 +3,5 @@ untuk belajar Github harus mengetahui beberapa terminologi berikut
 2 Comid
 3 Branch
 4 marge
+5 clone
+6 config
